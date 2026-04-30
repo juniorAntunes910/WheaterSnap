@@ -1,9 +1,15 @@
+:root {
+    --cor-fundo: 
+}
+
+
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 .container{
-    width: 90%;
+    width: 40%;
     margin: 0 auto;
 }
+
