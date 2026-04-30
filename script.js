@@ -20,7 +20,7 @@ const segundoSimbolo = document.getElementById("segundo-simbolo");
 const terceiroSimbolo = document.getElementById("terceiro-simbolo");
 const quartoSimbolo = document.getElementById("quarto-simbolo")
 
-const API_KEY = "95703de0a6fd405ba0a154228263004";
+const API_KEY = "95703de0a6fd405ba0a154228263004999";
 
 function calcularIcone(code, isDay) {
     if (code === 1000) return isDay ? "wi-day-sunny" : "wi-night-clear";
